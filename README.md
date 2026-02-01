@@ -21,12 +21,4 @@ I specialize in building high-performance applications, connecting complex backe
 </p>
 
 ---
-### GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zesbastian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zesbastian's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zesbastian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zesbastian&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
