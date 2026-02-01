@@ -1,4 +1,4 @@
-### Hi there , I'm Sebastián Calvo (Zesbastian)
+### Hi there, I'm Sebastián Calvo (Zesbastian)
 
 **Full Stack Developer | AI & Computer Vision Specialist | Android Engineer**
 
