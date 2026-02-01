@@ -22,3 +22,10 @@ I specialize in building high-performance applications, connecting complex backe
 
 ---
 
+### Activity & Contributions
+
+<img width="993" height="277" alt="image" src="https://github.com/user-attachments/assets/fe010e17-a56f-463d-a9f5-e6209c553aae" />
+
+
+**200+ Contributions in the last year** (Private & Confidential Client Work).
+*Most activity involves proprietary NDA-protected SaaS and AI algorithms.*
