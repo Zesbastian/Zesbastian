@@ -24,7 +24,7 @@ I specialize in building high-performance applications, connecting complex backe
 
 ### Activity & Contributions
 
-<img width="993" height="277" alt="image" src="[https://github.com/Zesbastian/Zesbastian/blob/main/contribuciones.png?raw=true](https://github.com/Zesbastian/Zesbastian/blob/main/Captura%20de%20pantalla%202026-04-11%20102148.png)" />
+<img width="993" height="277" alt="image" src="https://github.com/Zesbastian/Zesbastian/blob/main/Captura%20de%20pantalla%202026-04-11%20102148.png" />
 
 
 **200+ Contributions in the last year** (Private & Confidential Client Work).
